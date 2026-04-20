@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AsfXmr5QI4U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerome jay\\.gemini\\antigravity\\scratch\\Finals_Base\\TodoBackend\\TodoBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerome jay\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\jerome jay\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
